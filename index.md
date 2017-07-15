@@ -4,7 +4,7 @@
 
 Hi there !
 
-My name is Nilpa Jha. Currently I am working as an ML/NLP engineer at Accenture. My work includes working on tons of unstructured messy data and make data products on top of it to either automate the process or use that in predictive data modelling. I am a pythonist who is also proficient in R. My interest area are :
+My name is Nilpa Jha. Currently I am working as an ML/NLP engineer at Accenture Tech Labs. My work includes working on tons of unstructured messy data and make data products on top of it to either automate the process or use that in predictive data modelling. I am a pythonist who is also proficient in R. My interest area are :
 
 - Machine learning ( fav : random forest and matrix factorization)
 - Text summarization and text classification
