@@ -15,6 +15,6 @@ Other interests which I'd like to pursue
 - Kaggle 
 - Colors and Paintings! Probably source of my love for datavis. I do watercolor paintings and you can check out that on [Flickr](https://www.flickr.com/photos/pagal_ladkii/).
 
-If you want to catch-up with me with any of the above ideas, drop me an email on 'nilpajha@gmail.com' or check the bar on the left for more !
+If you want to catch-up with me with any of the above ideas, drop me an email on `nilpajha@gmail.com` or check the bar on the left for more !
 
 Thanks for passing by.
