@@ -23,3 +23,6 @@ version:          1.1.0
 
 github:
   repo:           https://github.com/nsquare
+
+gems:
+                  - jekyll-seo-tag  
