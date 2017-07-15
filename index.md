@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Hello World from @nsquare !
 
-You can use the [editor on GitHub](https://github.com/nsquare/nsquare.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Nilpa Jha. Currently I am working as an ML/NLP engineer at Accenture. My work includes working on tons of unstructured messy data and make data products on top of it to either automate the process or use that in predictive data modelling. I am a pythonist who is also proficient in R. My interest area are :
 
-### Markdown
+- machine learning ( fav : random forest and matrix factorization)
+- text summarization and text classification
+- Deep learning for NLP problems : Yes have got my hands dirty with it for text classification and semantic similarity problems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Other interests which I'd like to pursue 
 
-```markdown
-Syntax highlighted code block
+- Data Visualization using D3 , totally a [Mike Bostock](https://github.com/mbostock) fan. I aim to fill this world with beautiful interactive charts !
+- chatbots. Trying to add brain to my chatbot using AIML framework so that someday it can be brainy enough to reply my chats while I am sleeping. -_-
+- Colors and Paintings! Probably source of my love for datavis. I do watercolor paintings and you can check out that on [Flickr](https://www.flickr.com/photos/pagal_ladkii/).
 
-# Header 1
-## Header 2
-### Header 3
+If you want to catch-up with me with any of the above ideas, drop me an email on 'nilpajha@gmail.com' or check the bar on the left for more !
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nsquare/nsquare.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks for passing by.
