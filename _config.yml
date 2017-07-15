@@ -1,6 +1,6 @@
 # Dependencies
 #markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Nilpa Jha
 tagline:          'Nilpa Jha'
-description:      'Check below links for my github rep or catch me on twitter  <a href="https://twitter.com/shift_ctrl_N" target="_blank">@shift_ctrl_N</a>.'
+description:      'Check below link for my github rep or catch me on twitter <a href="https://twitter.com/shift_ctrl_N" target="_blank">@shift_ctrl_N</a>, <a href="https://www.linkedin.com/in/nilpajha/" target="_blank">Nilpa Jha @LinkedIn</a>.'
 url:              
 baseurl:          /
 
