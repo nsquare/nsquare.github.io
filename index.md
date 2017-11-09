@@ -4,11 +4,12 @@
 
 Hi there !
 
-My name is Nilpa Jha. Currently I am working as an ML/NLP engineer at Accenture Tech Labs. My work includes working on tons of unstructured messy data and make data products on top of it to either automate the process or use that in predictive data modelling. I am a pythonist who is also proficient in R. My interest area are :
+My name is Nilpa Jha. Currently I am working as Deep Learning Engineer at Myntra and build AI applications, GAN generated design and curation for fashion-Tech. Check out [here](http://www.livemint.com/Companies/tchtq74FOkMM43szMIHh0M/At-Myntra-machines-tell-designers-how-to-make-clothes.html) about the cool things our team is working on! Previously I worked at ML/NLP engineering, Accenture Tech Labs where my work included working on tons of unstructured messy data and make data products on top of it (and some regex hack too) to either automate the process or use that in predictive data modelling. I am a pythonist who is also proficient in R. My interest/hands-on area are :
 
 - Machine learning ( fav : random forest and matrix factorization)
 - Text summarization and text classification
 - Deep learning for NLP problems : Yes have got my hands dirty with it for text classification and semantic similarity problems.
+- GANs and their flavors : DCGAN, Conditional GANs etc.
 
 Other interests which I'd like to pursue 
 
