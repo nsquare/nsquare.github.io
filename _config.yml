@@ -26,4 +26,4 @@ github:
 
 gems:
                   - jekyll-seo-tag  
-comments: true
+# comments: true
