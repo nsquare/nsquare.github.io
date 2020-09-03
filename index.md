@@ -10,6 +10,7 @@ My interest Area are:
 
 - Object detection and segmentation.
 - Explainable AI
+- Ethics in AI
 - Generating Art using GANs
 
 Other interests which I'd like to pursue 
