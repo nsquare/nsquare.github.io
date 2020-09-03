@@ -4,7 +4,7 @@
 
 Hi there !
 
-My name is Nilpa Jha. Currently I am working as Senior Data Scientist (Visual Intelligence at Ikea). Previously I had worked at Myntra.com to build AI applications, GAN generated design and curation for fashion-Tech. Check out [here](http://www.livemint.com/Companies/tchtq74FOkMM43szMIHh0M/At-Myntra-machines-tell-designers-how-to-make-clothes.html) about the cool things our team was working on!
+My name is Nilpa Jha. I have worked as Senior Research Data Scientist (Visual Intelligence at Ikea). Previously I had worked at Myntra.com to build AI applications, GAN generated design and curation for fashion-Tech. Check out [here](http://www.livemint.com/Companies/tchtq74FOkMM43szMIHh0M/At-Myntra-machines-tell-designers-how-to-make-clothes.html) about the cool things our team was working on!
 
 My interest Area are:
 
